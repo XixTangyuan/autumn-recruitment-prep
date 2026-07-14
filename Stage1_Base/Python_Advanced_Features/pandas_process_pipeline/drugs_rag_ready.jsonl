@@ -1,0 +1,8 @@
+{"text": "药品 阿司匹林 的适应症为：用于缓解轻度或中度疼痛，如头痛、牙痛。也用于感冒或流感引起的发热。", "metadata": {"drug_name": "阿司匹林", "category": "解热镇痛药", "has_gi_reaction": true, "section": "适应症"}}
+{"text": "药品 阿司匹林 的第 1 项不良反应为：1. 胃肠道反应：恶心、呕吐、上腹部不适", "metadata": {"drug_name": "阿司匹林", "category": "解热镇痛药", "has_gi_reaction": true, "section": "不良反应", "chunk_id": 0}}
+{"text": "药品 阿司匹林 的第 2 项不良反应为：2. 过敏反应：皮疹、荨麻疹", "metadata": {"drug_name": "阿司匹林", "category": "解热镇痛药", "has_gi_reaction": true, "section": "不良反应", "chunk_id": 1}}
+{"text": "药品 布洛芬 的适应症为：缓解轻至中度疼痛如头痛、关节痛、偏头痛、牙痛、肌肉痛、神经痛、痛经。也用于普通感冒或流行性感冒引起的发热。", "metadata": {"drug_name": "布洛芬", "category": "解热镇痛药", "has_gi_reaction": false, "section": "适应症"}}
+{"text": "药品 布洛芬 的第 1 项不良反应为：少数病人可出现恶心、呕吐、胃烧灼感或轻度消化不良、胃肠道溃疡及出血、转氨酶升高", "metadata": {"drug_name": "布洛芬", "category": "解热镇痛药", "has_gi_reaction": false, "section": "不良反应", "chunk_id": 0}}
+{"text": "药品 对乙酰氨基酚 的适应症为：暂无数据", "metadata": {"drug_name": "对乙酰氨基酚", "category": "解热镇痛药", "has_gi_reaction": false, "section": "适应症"}}
+{"text": "药品 对乙酰氨基酚 的第 1 项不良反应为：偶见皮疹、荨麻疹、药热及白细胞减少等不良反应", "metadata": {"drug_name": "对乙酰氨基酚", "category": "解热镇痛药", "has_gi_reaction": false, "section": "不良反应", "chunk_id": 0}}
+{"text": "药品 对乙酰氨基酚 的第 2 项不良反应为：长期大量用药会导致肝肾功能异常", "metadata": {"drug_name": "对乙酰氨基酚", "category": "解热镇痛药", "has_gi_reaction": false, "section": "不良反应", "chunk_id": 1}}
