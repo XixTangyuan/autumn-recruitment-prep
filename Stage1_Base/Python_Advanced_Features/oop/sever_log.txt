@@ -1,0 +1,7 @@
+
+[2024-05-22 10:00:01] INFO: Server started on 192.168.1.100
+[2024-05-22 10:05:23] ERROR: Connection timeout from 10.0.0.5 - User: admin
+[2024-05-22 10:10:45] WARNING: High memory usage detected
+[2024-05-22 10:15:12] ERROR: Database query failed from 192.168.1.105 - User: guest
+Some random garbage text that we don't care about.
+[2024-05-22 10:20:33] INFO: Backup completed successfully

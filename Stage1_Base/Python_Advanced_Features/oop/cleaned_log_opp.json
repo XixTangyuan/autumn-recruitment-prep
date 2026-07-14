@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2024-05-22 10:05:23",
+    "level": "ERROR",
+    "message": " Connection timeout from 10.0.0.5 - User: admin"
+  },
+  {
+    "timestamp": "2024-05-22 10:10:45",
+    "level": "WARNING",
+    "message": " High memory usage detected"
+  },
+  {
+    "timestamp": "2024-05-22 10:15:12",
+    "level": "ERROR",
+    "message": " Database query failed from 192.168.1.105 - User: guest"
+  }
+]
