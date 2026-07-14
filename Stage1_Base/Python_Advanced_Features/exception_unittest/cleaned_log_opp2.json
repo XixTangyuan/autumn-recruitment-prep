@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2024-05-22 10:00:01",
+    "level": "INFO",
+    "message": " Server started on 192.168.1.100"
+  },
+  {
+    "timestamp": "2024-05-22 10:20:33",
+    "level": "INFO",
+    "message": " Backup completed successfully"
+  }
+]
